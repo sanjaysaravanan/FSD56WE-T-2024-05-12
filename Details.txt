@@ -42,7 +42,7 @@ Topics:
 Next Session:
 
   1. tictactoe
-      2. Tile Match
+  2. Tile Match
 
   3. useReducer
 
